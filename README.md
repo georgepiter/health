@@ -1,4 +1,4 @@
-# :hospital: Health - Cadastro beneficiário de plano de saúde :hospital:
+# :hospital: Health - Cadastro de beneficiário plano de saúde :hospital:
 
 ## 💻 O projeto foi desenvolvido com:
 
