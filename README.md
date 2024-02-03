@@ -23,7 +23,7 @@ Após efetuar o clone do Back End adicione o POM do projeto ao Mavem e aguarde o
 
 Em seguida via terminal navegue até a pasta raiz do projeto onde encontra-se o arquivo docker-compose.yml e execute o comando:
 
-- [x] docker-compose -up
+- [x] docker-compose up
 
 O Docker vai iniciar subindo um container com o MySQL,a pós isso, inicie o projeto pela classe main HealthApplication. 
 
