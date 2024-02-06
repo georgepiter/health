@@ -25,7 +25,7 @@ Em seguida via terminal navegue até a pasta raiz do projeto onde encontra-se o 
 
 - [x] docker-compose up
 
-O Docker vai iniciar subindo um container com o MySQL,a pós isso, inicie o projeto pela classe main HealthApplication. 
+O Docker vai iniciar subindo um container com o MySQL, após isso, inicie o projeto pela classe main HealthApplication. 
 
 A classe `DataInitializationConfig` será responsável por inserir no banco os usuários: `admin` e `manager`. O usuário admin terá a role_admin, enquanto o manager terá a role_manager. As senhas do admin e do manager é `123`, sendo esses usuários utilizados para obtenção do token JWT.
 
